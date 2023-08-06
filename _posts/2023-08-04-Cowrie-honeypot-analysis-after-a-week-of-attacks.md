@@ -311,11 +311,11 @@ The location of the IP addresses are quite diverse. The fact that this campaign 
 
 The botnet seems to be highly active as it scans the internet for RouterOS devices. It then exploits them by taking advantage of weak username and password configurations.
 
-## <ins style="color:red;font-size:17px;">Analyzing rest of the commands</ins>
+## <ins style="color:red;font-size:17px;">Analyzing the rest of the commands</ins>
 
 &nbsp;
 
-Rest of the commands don't follow a clear cut campaign like the MikroTik one does. This doesn't mean they aren't as interesting or useful for a security researcher.
+The rest of the commands don't follow a clear cut campaign like the MikroTik one does. This doesn't mean they aren't as interesting or useful for a security researcher.
 
 &nbsp;
 
